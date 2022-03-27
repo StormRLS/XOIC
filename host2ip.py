@@ -2,6 +2,7 @@ import socket
 import colorama
 from colorama import Fore, Style
 print(Fore.MAGENTA + Style.BRIGHT)
+print("\n" * 100)
 print("""
 
      8888   8888 8888888 88 8888888
