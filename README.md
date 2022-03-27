@@ -2,6 +2,8 @@
 Fast DoS &amp; DDoS tool inspired by HOIC
 
 # How to install
+ 
+​```bash
 apt update && apt upgrade
 
 pkg install  python
@@ -11,7 +13,7 @@ pkg install git
 git clone https://github.com/StormRLS/XOIC
 
 cd XOIC
-
+​```
 # Main Tool:
 python XOIC.py
 
