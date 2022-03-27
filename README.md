@@ -3,7 +3,7 @@ Fast DoS &amp; DDoS tool inspired by HOIC
 
 # How to install
  
-​```bash
+​```
 apt update && apt upgrade
 
 pkg install  python
