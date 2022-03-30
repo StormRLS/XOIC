@@ -20,5 +20,14 @@ python XOIC.py
 # Hours 2 Seconds
 python h2s.py
 
-# Host 2 Up
+# Host 2 Ip
 python host2ip.py
+
+# Versions
+• v0.1-alpha
+• v0.2-alpha
+
+# v0.2-alpha
+• slowloris
+• nexphisher
+• ip-tracer
