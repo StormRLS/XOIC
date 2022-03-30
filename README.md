@@ -31,6 +31,4 @@ python host2ip.py
 # v0.2-alpha
 • slowloris
 
-• nexphisher
-
 • ip-tracer
