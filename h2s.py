@@ -10,7 +10,7 @@ print("""
        8888888   88   88 88 88
       8888 8888  88   88 88 88
      8888   8888 8888888 88 8888888
-               alpha v0.1
+               alpha v0.2
 """)
 print(Fore.BLUE + Style.BRIGHT)
 hours = float(input("[+]  Enter hours:"))
