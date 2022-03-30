@@ -12,7 +12,7 @@ print("""
        8888888   88   88 88 88
       8888 8888  88   88 88 88
      8888   8888 8888888 88 8888888
-               alpha v0.1
+               alpha v0.2
 """)
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
